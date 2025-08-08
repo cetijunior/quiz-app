@@ -1,0 +1,96 @@
+export const QUESTIONS = [
+  {
+    id: "q1",
+    question: "Which language runs in a web browser?",
+    options: ["Java", "C", "Python", "JavaScript"],
+    answer: "JavaScript",
+    timeLimit: 15,
+  },
+  {
+    id: "q2",
+    question: "What does CSS stand for?",
+    options: [
+      "Cascading Style Sheets",
+      "Colorful Style Sheets",
+      "Computer Style Sheets",
+      "Creative Style System"
+    ],
+    answer: "Cascading Style Sheets",
+    timeLimit: 20,
+  },
+  {
+    id: "q3",
+    question: "What does HTML stand for?",
+    options: [
+      "Hypertext Markup Language",
+      "Hyper Text Makeup Language",
+      "Home Tool Markup Language",
+      "Hyper Transfer Markup Language",
+    ],
+    answer: "Hypertext Markup Language",
+    timeLimit: 20,
+  },
+  {
+    id: "q4",
+    question: "What is the capital city of France?",
+    options: ["Rome", "Madrid", "Paris", "Berlin"],
+    answer: "Paris",
+    timeLimit: 15,
+  },
+  {
+    id: "q5",
+    question: "Which planet is known as the Red Planet?",
+    options: ["Venus", "Mars", "Jupiter", "Saturn"],
+    answer: "Mars",
+    timeLimit: 15,
+  },
+  {
+    id: "q6",
+    question: "How many continents are there on Earth?",
+    options: ["5", "6", "7", "8"],
+    answer: "7",
+    timeLimit: 15,
+  },
+  {
+    id: "q7",
+    question: "Which ocean is the largest?",
+    options: ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+    answer: "Pacific Ocean",
+    timeLimit: 15,
+  },
+  {
+    id: "q8",
+    question: "Which is the smallest prime number?",
+    options: ["0", "1", "2", "3"],
+    answer: "2",
+    timeLimit: 15,
+  },
+  {
+    id: "q9",
+    question: "In which sport is the term 'love' used?",
+    options: ["Football", "Tennis", "Basketball", "Golf"],
+    answer: "Tennis",
+    timeLimit: 15,
+  },
+  {
+    id: "q10",
+    question: "Which animal is known as the King of the Jungle?",
+    options: ["Elephant", "Tiger", "Lion", "Giraffe"],
+    answer: "Lion",
+    timeLimit: 15,
+  },
+  {
+    id: "q11",
+    question: "What is the chemical symbol for water?",
+    options: ["O2", "H2O", "CO2", "NaCl"],
+    answer: "H2O",
+    timeLimit: 15,
+  },
+  {
+    id: "q12",
+    question: "Which color do you get by mixing red and white?",
+    options: ["Pink", "Purple", "Orange", "Brown"],
+    answer: "Pink",
+    timeLimit: 15,
+  }
+];
